@@ -1,1 +1,25 @@
-<mxfile host="www.draw.io" modified="2019-11-29T13:44:18.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.3.3" etag="JGE4s_GNPaSrwS-kDhqx" type="github"><diagram id="7RdI3s6KEFHH_3cWPepX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-29T13:50:34.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="1F0h7oRNLfXhG7KGZ42t" version="12.3.3" type="github" pages="1">
+  <diagram id="7RdI3s6KEFHH_3cWPepX" name="第 1 页">
+    <mxGraphModel dx="1426" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="jlUv-pbry-sSK79yKsdM-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jlUv-pbry-sSK79yKsdM-2" value="短信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jlUv-pbry-sSK79yKsdM-3" value="支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jlUv-pbry-sSK79yKsdM-4" value="短信发送记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jlUv-pbry-sSK79yKsdM-5" value="短信提交审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
