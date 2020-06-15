@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T09:49:44.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="lPVVtu7LoG6qbFvrkSJg" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-15T09:53:35.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="SQzn6TwmBXurUo30agQJ" version="13.1.3" type="github">
   <diagram id="xi2FdxPQCK2rSMaB3w1L" name="第 1 页">
     <mxGraphModel dx="895" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kIlgaVRiSF139uKTCRHu-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="344" y="50" width="166" height="310" as="geometry" />
+          <mxGeometry x="280" y="50" width="166" height="310" as="geometry" />
         </mxCell>
         <mxCell id="kIlgaVRiSF139uKTCRHu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="50" width="140" height="340" as="geometry" />
@@ -26,16 +26,22 @@
           <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kIlgaVRiSF139uKTCRHu-7" value="1. 读取 *.java 中的所有中文内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kIlgaVRiSF139uKTCRHu-8" value="2. 将读取到的中文内容存储到 KV 结构中" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kIlgaVRiSF139uKTCRHu-9" value="3. 在指定目录下写入 *.properties 文件。具体哪个目录，Apollo 配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kIlgaVRiSF139uKTCRHu-11" value="第一步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="394" y="320" width="66" height="20" as="geometry" />
+          <mxGeometry x="330" y="320" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kIlgaVRiSF139uKTCRHu-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="580" y="50" width="166" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="kIlgaVRiSF139uKTCRHu-14" value="第二步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="66" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
