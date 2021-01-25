@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T06:23:43.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="13.10.4" etag="lH3t1n8wrp7Vu3hdyN-g" type="github"><diagram id="tOjc8CCZNNIu_FcnXT40">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-25T06:44:58.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="RDVkVHnOMfZOTtn4jEvR" version="13.10.4" type="github">
+  <diagram id="tOjc8CCZNNIu_FcnXT40" name="第 1 页">
+    <mxGraphModel dx="1038" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcMEqf9q85fXLt-Pw2HH-2" target="rcMEqf9q85fXLt-Pw2HH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-1" value="dzg_customer&lt;br&gt;先使用基石条件，将 dzg_customer 的数据查询出来" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="610" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcMEqf9q85fXLt-Pw2HH-2" target="rcMEqf9q85fXLt-Pw2HH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-2" value="取出所有 dzg_id,去 dzg_customer_order 查询数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rcMEqf9q85fXLt-Pw2HH-1" source="rcMEqf9q85fXLt-Pw2HH-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcMEqf9q85fXLt-Pw2HH-5" target="rcMEqf9q85fXLt-Pw2HH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-5" value="取出所有 dzg_id,去 dzg_customer_order _detail 查询数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.014;entryY=0.777;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rcMEqf9q85fXLt-Pw2HH-1" source="rcMEqf9q85fXLt-Pw2HH-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcMEqf9q85fXLt-Pw2HH-7" target="rcMEqf9q85fXLt-Pw2HH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-7" value="取出所有 dzg_id,去 dzg_customer_contact 查询数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rcMEqf9q85fXLt-Pw2HH-8" target="rcMEqf9q85fXLt-Pw2HH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-8" value="转成 Map" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcMEqf9q85fXLt-Pw2HH-10" target="rcMEqf9q85fXLt-Pw2HH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-10" value="转成 Map" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="250" y="600" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcMEqf9q85fXLt-Pw2HH-12" target="rcMEqf9q85fXLt-Pw2HH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-12" value="转成 Map" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="510" y="600" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMEqf9q85fXLt-Pw2HH-14" value="聚合成一个 Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="780" width="620" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
