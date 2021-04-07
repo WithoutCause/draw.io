@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T08:43:51.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.4" etag="0V83XjxNkrd5dNqJZCSF" type="github"><diagram id="TB59216K7cf19CI68VSx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-07T09:35:40.780Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="32pXGLfaC0KLNu3fjLe4" version="14.5.4" type="github">
+  <diagram id="TB59216K7cf19CI68VSx" name="第 1 页">
+    <mxGraphModel dx="2125" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="590" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="45" width="190" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-1" value="文鳐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="37Bj4rj5MiRBO9lJ0vnl-3" target="37Bj4rj5MiRBO9lJ0vnl-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="310" />
+              <mxPoint x="920" y="20" />
+              <mxPoint x="560" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="40" width="190" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-4" value="BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="37Bj4rj5MiRBO9lJ0vnl-6" target="37Bj4rj5MiRBO9lJ0vnl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-6" value="openPlatform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="37Bj4rj5MiRBO9lJ0vnl-8" target="37Bj4rj5MiRBO9lJ0vnl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-8" value="mdm&lt;br&gt;新接口接收文鳐对账单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="37Bj4rj5MiRBO9lJ0vnl-13" target="37Bj4rj5MiRBO9lJ0vnl-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-13" value="发MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-16" value="消费 MQ&lt;br&gt;PoseidonCompConsumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="330" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
