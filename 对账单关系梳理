@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T08:45:34.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="rlrU5b5148mu1n0969-5" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-06T08:47:02.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="5mJDNX9If_hjw9Vm81hq" version="14.6.6" type="github" pages="2">
   <diagram id="TB59216K7cf19CI68VSx" name="对账单关系梳理">
     <mxGraphModel dx="1298" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,13 +68,13 @@
         <mxCell id="37Bj4rj5MiRBO9lJ0vnl-18" value="对账单推送文鳐" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="710" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-21" value="com.dzg.mdm.remote.bms.impl.BmsSettlementRemoteImpl#comp" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-21" value="com.dzg.mdm.remote.bms.impl.BmsSettlementRemoteImpl#comp" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1">
           <mxGeometry x="710" y="150" width="410" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-25" value="com.dzg.mdm.poseidon.mq.consumer.standard.settlement.PoseidonCompConsumer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-25" value="com.dzg.mdm.poseidon.mq.consumer.standard.settlement.PoseidonCompConsumer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1">
           <mxGeometry x="620" y="400" width="500" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-27" value="com.dzg.mdm.poseidon.mq.procucer.PoseidonStandardDataProducerImpl#sendComp&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;topic:&amp;nbsp;mdm.poseidon.mq.dc.biz.fi.topic&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;tag: comp&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-27" value="com.dzg.mdm.poseidon.mq.procucer.PoseidonStandardDataProducerImpl#sendComp&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;topic:&amp;nbsp;mdm.poseidon.mq.dc.biz.fi.topic&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;tag: comp&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1">
           <mxGeometry x="590" y="270" width="540" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DOi0hcGU08EtJef8C9lO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37Bj4rj5MiRBO9lJ0vnl-29" target="DOi0hcGU08EtJef8C9lO-3">
@@ -83,7 +83,7 @@
         <mxCell id="37Bj4rj5MiRBO9lJ0vnl-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="375" y="560" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CPGSUrA8ffgixz6KQxN_-4" value="com.olymtech.cs.openplatform.api.mdm.bms.BmsApi#comp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CPGSUrA8ffgixz6KQxN_-4" value="com.olymtech.cs.openplatform.api.mdm.bms.BmsApi#comp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="630" y="60" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DOi0hcGU08EtJef8C9lO-1" value="1. 使用策略 + 工厂设计模式 获取对应的 Bean。 Bean 的获取是在 SettlementEnmus 枚举中定义的 key，SettlementStrategy 的各个实现类。&lt;br&gt;&lt;br&gt;2.&amp;nbsp;com.dzg.mdm.poseidon.mongo.service.settlement.SettlementStrategy#process 使用了模板方法设计模式, 定义了消费处理流程，预留的各个钩子处理具体逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -92,7 +92,7 @@
         <mxCell id="DOi0hcGU08EtJef8C9lO-3" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /**&lt;span&gt;&amp;nbsp;9、执行新增&lt;/span&gt;&lt;span&gt;*/&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; persistenceMongo(formatData.get(PoseidonUpdateDataOpearteEnum.INSERT));&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /**&lt;span&gt;10、执行修改&lt;/span&gt;&lt;span&gt;*/&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; processUpdate(formatData.get(PoseidonUpdateDataOpearteEnum.UPDATE));&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /**&lt;span&gt;11、执行删除&lt;/span&gt;&lt;span&gt;*/&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; deleteMongo(formatData.get(PoseidonUpdateDataOpearteEnum.DELETE));&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="560" width="490" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="DOi0hcGU08EtJef8C9lO-5" value="com.dzg.mdm.poseidon.mongo.service.settlement.SettlementStrategy#sendMq" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DOi0hcGU08EtJef8C9lO-5" value="com.dzg.mdm.poseidon.mongo.service.settlement.SettlementStrategy#sendMq" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" vertex="1" parent="1">
           <mxGeometry x="590" y="710" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPGSUrA8ffgixz6KQxN_-1" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;rounded=1;" vertex="1" connectable="0" parent="1">
