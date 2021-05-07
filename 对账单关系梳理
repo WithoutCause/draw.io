@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T07:17:08.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="BHDtKqCrQv4eHn_DyGt5" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-07T07:25:54.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ImjTUCHgaQaf5sY54xJW" version="14.6.6" type="github" pages="2">
   <diagram id="TB59216K7cf19CI68VSx" name="对账单关系梳理">
     <mxGraphModel dx="2125" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LbaBC3l4s1iFWlLaEW84-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1040" width="960" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="37Bj4rj5MiRBO9lJ0vnl-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="20" width="1350" height="920" as="geometry" />
         </mxCell>
@@ -105,20 +108,34 @@
         <mxCell id="37Bj4rj5MiRBO9lJ0vnl-4" value="BMS" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="CPGSUrA8ffgixz6KQxN_-1" vertex="1">
           <mxGeometry x="380" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CPGSUrA8ffgixz6KQxN_-2" value="" style="group;rounded=1;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;arcSize=15;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="190" y="1160" width="870" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-1" value="文鳐" style="rounded=0;whiteSpace=wrap;html=1;" parent="CPGSUrA8ffgixz6KQxN_-2" vertex="1">
-          <mxGeometry x="325" y="55" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="LbaBC3l4s1iFWlLaEW84-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbaBC3l4s1iFWlLaEW84-8" target="LbaBC3l4s1iFWlLaEW84-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbaBC3l4s1iFWlLaEW84-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbaBC3l4s1iFWlLaEW84-8" target="LbaBC3l4s1iFWlLaEW84-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LbaBC3l4s1iFWlLaEW84-8" value="消费 MQ&lt;br&gt;AbstractPoseidonConsumerListener" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="720" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LbaBC3l4s1iFWlLaEW84-10" value="1. 模板方法设计模式, handler 方法会调到对应的处理逻辑&lt;br&gt;2. 前置条件：&lt;br&gt;&amp;nbsp; &amp;nbsp; 2.1 getThirdProduct() 判断消费器；&lt;br&gt;&amp;nbsp; &amp;nbsp; 2.2 messageSubscribes 订阅列表，MySQL表 mdm 库，表名:&amp;nbsp;poseidon_message_subscribe&lt;br&gt;&amp;nbsp; &amp;nbsp; 2.3 从订阅表里挑选对应的模块， 如果是 * 表示所有模块" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="660" y="710" width="530" height="80" as="geometry" />
+        <mxCell id="LbaBC3l4s1iFWlLaEW84-10" value="1. 模板方法设计模式, handler 方法会调到对应的处理逻辑&lt;br&gt;2. 前置条件：&lt;br&gt;&amp;nbsp; &amp;nbsp; 2.1 getThirdProduct() 判断消费器；&lt;br&gt;&amp;nbsp; &amp;nbsp; 2.2 messageSubscribes 订阅列表，MySQL表 mdm 库，表名:&amp;nbsp;poseidon_message_subscribe&lt;br&gt;&amp;nbsp; &amp;nbsp; 2.3 从订阅表里挑选对应的模块， 如果是 * 表示所有模块&lt;br&gt;3. 调用&amp;nbsp; handler() 方法处理对应逻辑" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#10739e;fillColor=#b1ddf0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="705" width="530" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LbaBC3l4s1iFWlLaEW84-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbaBC3l4s1iFWlLaEW84-12" target="LbaBC3l4s1iFWlLaEW84-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbaBC3l4s1iFWlLaEW84-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LbaBC3l4s1iFWlLaEW84-12" target="LbaBC3l4s1iFWlLaEW84-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbaBC3l4s1iFWlLaEW84-12" value="BmsSettleListener" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="860" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LbaBC3l4s1iFWlLaEW84-14" value="handler() 方法处理具体逻辑&lt;br&gt;&lt;br&gt;BmsHandlerStrategy 具体逻辑实现类的 process() 方法调文鳐 SDK 推送" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="860" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37Bj4rj5MiRBO9lJ0vnl-1" value="文鳐" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
