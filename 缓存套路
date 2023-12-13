@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T01:23:18.731Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.8" etag="L-FAcMLRRGi5h7M6x0M6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T01:27:34.520Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZsHQOLh4C7swyKh-OK5z" version="22.1.8" type="github">
   <diagram name="第 1 页" id="BlThFFf1RiAsPrh7okMN">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_5LoRamN8ZN-z0x9L-9e-1" value="app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5LoRamN8ZN-z0x9L-9e-2" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_5LoRamN8ZN-z0x9L-9e-3" value="Redis" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_5LoRamN8ZN-z0x9L-9e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_5LoRamN8ZN-z0x9L-9e-1" target="_5LoRamN8ZN-z0x9L-9e-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_5LoRamN8ZN-z0x9L-9e-5" value="wirte" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_5LoRamN8ZN-z0x9L-9e-4">
+          <mxGeometry x="-0.1333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5LoRamN8ZN-z0x9L-9e-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=50;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_5LoRamN8ZN-z0x9L-9e-1" target="_5LoRamN8ZN-z0x9L-9e-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_5LoRamN8ZN-z0x9L-9e-7" value="read" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_5LoRamN8ZN-z0x9L-9e-6">
+          <mxGeometry x="-0.1189" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5LoRamN8ZN-z0x9L-9e-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=70;entryDy=80;entryPerimeter=0;" edge="1" parent="1" source="_5LoRamN8ZN-z0x9L-9e-2" target="_5LoRamN8ZN-z0x9L-9e-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_5LoRamN8ZN-z0x9L-9e-9" value="binlog 同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_5LoRamN8ZN-z0x9L-9e-8">
+          <mxGeometry x="-0.2727" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
