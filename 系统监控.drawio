@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T07:55:21.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="22.1.18" etag="tt0DwUn-TSXrMLlvayGB" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T07:59:17.944Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8R3E8bUBHmxS16i4NocP" version="22.1.18" type="github">
   <diagram name="第 1 页" id="I377EtIVjgrKmBTiHKE1">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AB1-wqlMS5XGnAx7kSNw-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="330" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="AB1-wqlMS5XGnAx7kSNw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AB1-wqlMS5XGnAx7kSNw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AB1-wqlMS5XGnAx7kSNw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AB1-wqlMS5XGnAx7kSNw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;strokeWidth=2;" edge="1" parent="1" source="AB1-wqlMS5XGnAx7kSNw-6" target="AB1-wqlMS5XGnAx7kSNw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AB1-wqlMS5XGnAx7kSNw-6" value="Application" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AB1-wqlMS5XGnAx7kSNw-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="395" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AB1-wqlMS5XGnAx7kSNw-10" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="395" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AB1-wqlMS5XGnAx7kSNw-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="395" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AB1-wqlMS5XGnAx7kSNw-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应用数据采集到 &lt;br&gt;Prometheus 集群中&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="195" width="140" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
