@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-0" value="邀请码管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-260" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-1" target="Th7hQY14C2ivIznOKQiV-3">
           <mxGeometry relative="1" as="geometry" />
@@ -17,10 +17,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-1" value="每个渠道配置不同的邀请码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-260" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Th7hQY14C2ivIznOKQiV-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-3" target="Th7hQY14C2ivIznOKQiV-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-3" value="关联优惠券" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-260" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-6" target="Th7hQY14C2ivIznOKQiV-8">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +38,7 @@
           <mxGeometry x="489" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-10" value="生成小程序码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-12" target="Th7hQY14C2ivIznOKQiV-14">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +69,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-17" value="进入领取优惠券流程" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-26" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="150" width="170" height="410" as="geometry" />
@@ -113,14 +116,23 @@
         <mxCell id="Th7hQY14C2ivIznOKQiV-33" value="回到邀请码界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="Th7hQY14C2ivIznOKQiV-37">
           <mxGeometry x="430" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Th7hQY14C2ivIznOKQiV-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-45" target="Th7hQY14C2ivIznOKQiV-17">
+        <mxCell id="Th7hQY14C2ivIznOKQiV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-45" target="Th7hQY14C2ivIznOKQiV-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-45" value="进入填邀请码页面" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-35" target="Th7hQY14C2ivIznOKQiV-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Th7hQY14C2ivIznOKQiV-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-48" target="Th7hQY14C2ivIznOKQiV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Th7hQY14C2ivIznOKQiV-48" value="变更会员等级" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Th7hQY14C2ivIznOKQiV-51" value="配置要修改的用户等级" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-260" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
