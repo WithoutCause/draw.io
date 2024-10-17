@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-0" value="邀请码管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-260" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-1" target="Th7hQY14C2ivIznOKQiV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,13 +23,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-1" value="每个渠道配置不同的邀请码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-260" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-3" target="Th7hQY14C2ivIznOKQiV-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-3" value="关联优惠券" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-260" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-6" target="Th7hQY14C2ivIznOKQiV-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="489" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-10" value="生成小程序码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-60" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th7hQY14C2ivIznOKQiV-12" target="Th7hQY14C2ivIznOKQiV-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -78,7 +78,7 @@
           <mxGeometry x="650" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-26" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="920" y="150" width="170" height="410" as="geometry" />
+          <mxGeometry x="920" y="350" width="170" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="Th7hQY14C2ivIznOKQiV-26" vertex="1">
           <mxGeometry width="170" height="410" as="geometry" />
@@ -99,7 +99,7 @@
           <mxGeometry x="20" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-27" value="用户领取优惠券流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="950" y="580" width="130" height="30" as="geometry" />
+          <mxGeometry x="950" y="780" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-37" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="39" y="820" width="570" height="90" as="geometry" />
@@ -138,7 +138,7 @@
           <mxGeometry x="650" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th7hQY14C2ivIznOKQiV-51" value="配置要修改的用户等级" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-260" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3x5Yhv_u1hAf3x9Enkd-1" value="前端拦截" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="195" width="90" height="130" as="geometry" />
