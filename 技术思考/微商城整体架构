@@ -54,6 +54,9 @@
         <mxCell id="QlZ3NVMG9EF6PyKJW6sN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.068;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QlZ3NVMG9EF6PyKJW6sN-3" target="QlZ3NVMG9EF6PyKJW6sN-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QlZ3NVMG9EF6PyKJW6sN-20" value="阿里云 RDS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="680" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
