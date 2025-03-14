@@ -1,9 +1,206 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0" pages="2">
   <diagram name="第 1 页" id="5FkrXhEX-Lv7ewiFO-1g">
-    <mxGraphModel>
+    <mxGraphModel dx="823" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="waKdtzZXIwjHK7YbZGuY-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="10" y="230" width="630" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="waKdtzZXIwjHK7YbZGuY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="waKdtzZXIwjHK7YbZGuY-1" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="waKdtzZXIwjHK7YbZGuY-3" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="waKdtzZXIwjHK7YbZGuY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="waKdtzZXIwjHK7YbZGuY-5" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="waKdtzZXIwjHK7YbZGuY-6" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="waKdtzZXIwjHK7YbZGuY-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="waKdtzZXIwjHK7YbZGuY-8" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="waKdtzZXIwjHK7YbZGuY-9" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="waKdtzZXIwjHK7YbZGuY-11" value="OceanBase 集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CMkrhhRgQB4bGhoUDI2t" name="第 2 页">
+    <mxGraphModel dx="1194" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="1090" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="987" y="149" width="200" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="776" y="150" width="200" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="200" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="354" y="149" width="196" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="200" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-3" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-4" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="569" y="160" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-6" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="579" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-7" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="629" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-9" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-10" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-11" value="OceanBase 集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="987" y="231.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="305" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-13" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="315" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-14" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="569" y="305" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-16" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="579" y="315" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-17" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="629" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="305" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-19" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="315" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-20" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="997" y="161.5" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-22" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="171.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-23" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="251.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="786" y="161.5" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-28" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="796" y="171.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-29" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="846" y="251.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="997" y="306.5" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-31" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="316.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-32" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="396.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="786" y="306.5" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-37" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="796" y="316.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-38" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="846" y="396.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="455" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-55" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="465" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-56" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="569" y="455" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-58" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="579" y="465" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-59" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="629" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="455" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-61" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="465" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-62" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="997" y="456.5" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-64" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="466.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-65" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="546.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="786" y="456.5" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-67" value="OceanBase Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="796" y="466.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDnnNgPZXgoAvFARW4F3-68" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="846" y="546.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
