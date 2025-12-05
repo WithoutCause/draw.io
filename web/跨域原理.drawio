@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.4">
   <diagram name="第 1 页" id="XZO2cGtj0rff1qxPbsEA">
-    <mxGraphModel>
+    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="260" width="665" x="15" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="190" width="240" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-2" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="前端工程" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="190" width="180" x="460" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;gradientColor=#7ea6e0;" value="后端工程" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-9" edge="1" parent="1" source="EwP_NWs4HsL1Tf6aUo3u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EwP_NWs4HsL1Tf6aUo3u-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Webpack/ Vite的代理" vertex="1">
+          <mxGeometry height="150" width="80" x="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-13" edge="1" parent="1" source="EwP_NWs4HsL1Tf6aUo3u-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EwP_NWs4HsL1Tf6aUo3u-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="JS/TS代码" vertex="1">
+          <mxGeometry height="150" width="90" x="30" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="260" width="665" x="20" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="190" width="125" x="25" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-17" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="前端工程" vertex="1">
+          <mxGeometry height="30" width="60" x="45" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="190" width="180" x="465" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;gradientColor=#7ea6e0;" value="后端工程" vertex="1">
+          <mxGeometry height="30" width="60" x="525" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-20" edge="1" parent="1" source="EwP_NWs4HsL1Tf6aUo3u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EwP_NWs4HsL1Tf6aUo3u-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Nginx" vertex="1">
+          <mxGeometry height="190" width="80" x="280" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-22" edge="1" parent="1" source="EwP_NWs4HsL1Tf6aUo3u-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EwP_NWs4HsL1Tf6aUo3u-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwP_NWs4HsL1Tf6aUo3u-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="JS/TS代码" vertex="1">
+          <mxGeometry height="150" width="90" x="35" y="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
